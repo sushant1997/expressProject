@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "sushant",
+        "email": "panerusushant@gmail.com",
+        "password": "$2b$10$3DzL1oUgs92Khp4iz2aACu.wU6I0ByiZSRXfu44B0uuJuKWTO09XG",
+        "address": "kalimati"
+    },
+    {
+        "id": 2,
+        "username": "anup",
+        "email": "anup@gmail.com",
+        "password": "$2b$10$g1R17.D8bJuYsSovSouDzeNLAggb1.m3X4zZ22Z6ZsbOgGA2TtLMy",
+        "address": "kalimati"
+    }
+]
